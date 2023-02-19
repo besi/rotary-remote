@@ -35,7 +35,7 @@
         "pads": {
           "drill": 1.0,
           "height": 2.5,
-          "width": 3.0
+          "width": 3.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -381,6 +381,9 @@
         "nets": [
           "+3V3",
           "+5V",
+          "/VBAT",
+          "/VBAT-",
+          "/VIN",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
